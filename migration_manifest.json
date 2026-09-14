@@ -1,0 +1,203 @@
+{
+  "manifestVersion": "1.0.0",
+  "generatedAt": "2026-09-13T18:29:53.638Z",
+  "source": {
+    "type": "indexeddb",
+    "dbName": "hecca_db",
+    "dbVersion": 3
+  },
+  "destination": {
+    "type": "supabase",
+    "projectUrl": "https://imxtgcuzfjpwwsbmkxyl.supabase.co"
+  },
+  "summary": {
+    "productsCount": 8,
+    "siteSettingsCount": 8,
+    "storageObjectsCount": 0,
+    "uniqueImageUrlsCount": 4
+  },
+  "products": [
+    {
+      "id": "hecca-daily-voal-waterproof",
+      "slug": "hecca-daily-voal-waterproof",
+      "name": "Haecca Daily Voal Water-Repellent",
+      "category": "voal",
+      "price": 95000,
+      "stock": 35,
+      "imageCount": 3,
+      "primaryImage": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "sha256": "8d578d0e488a2755c75fb3feb78fc5c17c8c72ae66cfce42a9916d11f645f4a0"
+    },
+    {
+      "id": "hecca-inner-ciput-rajut",
+      "slug": "hecca-inner-ciput-rajut",
+      "name": "Haecca Inner Hijab Ciput Rajut 4-Way Stretch",
+      "category": "accessories",
+      "price": 35000,
+      "stock": 90,
+      "imageCount": 2,
+      "primaryImage": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=1000&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "sha256": "911e1f7cd03fc4ccbb8c1726f7fce32af844e720d6ba748b3895a5d8c2545361"
+    },
+    {
+      "id": "hecca-monogram-silk-square",
+      "slug": "hecca-monogram-silk-square",
+      "name": "Haecca Exclusive Monogram Silk Square",
+      "category": "hijab",
+      "price": 149000,
+      "stock": 20,
+      "imageCount": 3,
+      "primaryImage": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "sha256": "651f6c93ba52f9fc9b98113ac35c224d49ac68e96f561ed6a8815cdb5ef03153"
+    },
+    {
+      "id": "hecca-paris-square",
+      "slug": "hecca-paris-square",
+      "name": "Haecca Paris Square Classic",
+      "category": "hijab",
+      "price": 65000,
+      "stock": 60,
+      "imageCount": 3,
+      "primaryImage": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "sha256": "2ad6bededde86d3087999038f05507b82150a4c27a1049063ac2b54aab1b991f"
+    },
+    {
+      "id": "hecca-pashmina-ceruty",
+      "slug": "hecca-pashmina-ceruty",
+      "name": "Haecca Pashmina Ceruty Baby Doll",
+      "category": "pashmina",
+      "price": 75000,
+      "stock": 52,
+      "imageCount": 3,
+      "primaryImage": "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&w=1000&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "sha256": "6064f589cfb05d0bf2e30f828437057986466a3a1df6c40c872261818bf2af2d"
+    },
+    {
+      "id": "hecca-pashmina-silk",
+      "slug": "hecca-pashmina-silk",
+      "name": "Haecca Pashmina Silk Cradenza",
+      "category": "pashmina",
+      "price": 115000,
+      "stock": 28,
+      "imageCount": 3,
+      "primaryImage": "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1000&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "sha256": "e3b395828c0d10704003cfe3de713950ac6943184a9c3535db80679c8bdab9d7"
+    },
+    {
+      "id": "hecca-silk-scrunchie",
+      "slug": "hecca-silk-scrunchie",
+      "name": "Haecca Mulberry Silk Scrunchie Anti Rontok",
+      "category": "accessories",
+      "price": 29000,
+      "stock": 80,
+      "imageCount": 2,
+      "primaryImage": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=1000&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "sha256": "28ba8c2b2c69a7eaaea28ec9251f9a31b8d8dd50eb6ccf1773b875bfb57217c7"
+    },
+    {
+      "id": "hecca-voal-premium",
+      "slug": "hecca-voal-premium",
+      "name": "Haecca Voal Premium Ultrafine",
+      "category": "voal",
+      "price": 89000,
+      "stock": 45,
+      "imageCount": 3,
+      "primaryImage": "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&w=1000&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "sha256": "1593629803a93be1460e7117913fa9660be7b1bfc93b670b632ff07be6c1c07a"
+    }
+  ],
+  "siteSettings": [
+    {
+      "key": "brand",
+      "sha256": "8fe7655220a7649b94c7ad03baa0b378dd3eecac2e55ded84eec39dd4ddc2dee",
+      "fieldsCount": 7
+    },
+    {
+      "key": "navigation",
+      "sha256": "2cff715cdccd5af17b5c74934853739dfed0f81dc6f6c001b8784a1efee10c9a",
+      "fieldsCount": 2
+    },
+    {
+      "key": "announcementBar",
+      "sha256": "6a177e316c58755407ce6fdf5ca56ec56cc5ded95d2e8afd1495fa418ef576b3",
+      "fieldsCount": 6
+    },
+    {
+      "key": "homepage",
+      "sha256": "154372a394f062f553655e287a765a03140de1a4b30ac8acc5b4a5da6b490fa2",
+      "fieldsCount": 7
+    },
+    {
+      "key": "about",
+      "sha256": "0231223a5845113ec1e8ff0535e3f3c10b14af0d19086b308618f1b5fca10704",
+      "fieldsCount": 16
+    },
+    {
+      "key": "footer",
+      "sha256": "a2516bb57925793de6ed13ca66b92c8bd6d62eb80d913b558fbbcc50f667deab",
+      "fieldsCount": 11
+    },
+    {
+      "key": "store",
+      "sha256": "7ef48c94d7ffdfd79b0265c27d78582a4c66be6a8b89bbc2fa5b69892bcda62f",
+      "fieldsCount": 12
+    },
+    {
+      "key": "whatsapp",
+      "sha256": "3ca9924374d5dc47d3280f38aa15d7798f6ddbedc9c9571d0be6e34c901caa1f",
+      "fieldsCount": 5
+    }
+  ],
+  "images": {
+    "storageUploadsRequired": 0,
+    "externalCdnUrls": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1596704017254-9b121068fb31?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=1000&q=80"
+    ]
+  },
+  "idempotencyStrategy": {
+    "products": "UPSERT ON CONFLICT (id) DO UPDATE",
+    "siteSettings": "UPSERT ON CONFLICT (key) DO UPDATE",
+    "safeForRepeatedExecution": true
+  }
+}
